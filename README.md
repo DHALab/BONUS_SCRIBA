@@ -18,6 +18,19 @@ impressions of Hittite officials in the provinces of northern Syria, notably Ras
 (Porada 1981/82:46–49 no. 25; Güterbock 1981/82) and Tell el-FarNah in Israel (Singer 2006:738f.). There are also many unprovenanced seals in various museums
 and private collections in Turkey and around the world: e.g., Dinçol/Dinçol 2001; Mora 1987, 1990a; Beckman 1998, 2004; Poetto 1980, 2007.
 
+# Licensing
+
+This repository is made freely available under the Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license. This means you are free to share and adapt the code and datasets, under the conditions that you cite the project appropriately, note any changes you have made to the original code and datasets, and if you are redistributing the project or a part thereof, you must release it under the same license or a similar one.
+
+For more information about the license, see [here](<https://creativecommons.org/licenses/by-sa/3.0/>).
+
+# Issues and Bugs
+
+If you are experiencing any issues with the [website](https://babylonian.herokuapp.com/) or the git repository, please contact us at dhl.arieluni@gmail.com, and we would gladly assist you. We would also much appreciate feedback about using the code via the website, or about the repository itself, so please send us any comments or suggestions.
+
+### Author
+* Shai Gordin
+
 ## Refernces
 
 Beckman, G.
